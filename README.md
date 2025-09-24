@@ -44,9 +44,10 @@ This project is designed to help job seekers, data enthusiasts, and industry pro
 
 ## 🚀 How to Use  
 
-1. **Download** the `.pbix` file from this repository.  
-2. Open it using **Power BI Desktop**.  
-3. Explore the dashboard by interacting with filters, slicers, and visualizations.  
+1.**Download the raw data** from [here](https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/Raw%20Data.xlsx).  
+2. **Download** the `.pbix` file from this repository.  
+3. Open it using **Power BI Desktop**.  
+4. Explore the dashboard by interacting with filters, slicers, and visualizations.  
 
 ---
 
