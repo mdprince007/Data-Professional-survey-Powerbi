@@ -65,5 +65,6 @@ This project is designed to help job seekers, data enthusiasts, and industry pro
 **MD Asadujjaman Prince**  
 📍 Bangladesh  
 📧 [mdprince.bd111@gmail.com](mailto:mdprince.bd111@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mdasadujjamanprince/)  
 
 💡 *If you like this project, give it a ⭐ on GitHub!*  
