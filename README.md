@@ -44,10 +44,10 @@ This project is designed to help job seekers, data enthusiasts, and industry pro
 
 ## 🚀 How to Use  
 
-1.**Download the raw data** from [here](https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/Raw%20Data.xlsx).  
-2. **Download** the `.pbix` file from this repository.  
-3. Open it using **Power BI Desktop**.  
-4. Explore the dashboard by interacting with filters, slicers, and visualizations.  
+1. **Download the raw data** from [here](https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/Raw%20Data.xlsx).  
+2. Open the **Data Cleaning File**: [data cleaning.pbix](https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/data%20cleaning.pbix) in Power BI Desktop to see how the data was transformed.  
+3. Open the **Final Dashboard**: [Dashboard.pbix](https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/Dashboard.pbix) to explore the completed visualization.  
+4. Interact with filters, slicers, and visualizations to gain insights.  
 
 ---
 
