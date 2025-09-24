@@ -28,8 +28,7 @@ This project is designed to help job seekers, data enthusiasts, and industry pro
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Screenshot](Screenshot%202025-09-24%20154431.png)
-
+<img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/Data-Professional-survey-Powerbi/blob/main/Dashboard.png" />
 ---
 
 ## 🔑 Key Insights  
